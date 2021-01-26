@@ -1,6 +1,6 @@
 # wagwan
 
-A new Flutter project.
+A Flutter based Chat Application.
 
 ## Getting Started
 
