@@ -55,6 +55,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     color: (_page == 0)
                         ? UniversalVariables.lightBlueColor
                         : UniversalVariables.greyColor),
+                // ignore: deprecated_member_use
                 title: Text(
                   "Chats",
                   style: TextStyle(
@@ -69,6 +70,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     color: (_page == 1)
                         ? UniversalVariables.lightBlueColor
                         : UniversalVariables.greyColor),
+                // ignore: deprecated_member_use
                 title: Text(
                   "Chats",
                   style: TextStyle(
@@ -83,6 +85,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     color: (_page == 2)
                         ? UniversalVariables.lightBlueColor
                         : UniversalVariables.greyColor),
+                // ignore: deprecated_member_use
                 title: Text(
                   "Chats",
                   style: TextStyle(
