@@ -76,6 +76,8 @@ dependencies:
 
   # intl
   intl: ^0.16.1
+
+  giphy_get: ^1.1.0
   
 
 dev_dependencies:
