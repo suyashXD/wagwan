@@ -38,6 +38,7 @@ class LoginScreenState extends State<LoginScreen> {
     return Shimmer.fromColors(
       baseColor: Colors.white,
       highlightColor: UniversalVariables.senderColor,
+      // ignore: deprecated_member_use
       child: FlatButton(
         padding: EdgeInsets.all(35),
         child: Text(
